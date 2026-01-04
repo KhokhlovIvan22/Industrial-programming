@@ -1,0 +1,18 @@
+SU123
+2025-12-20 17:33
+Minsk
+Ivan Petrov
+2
+25.5
+SU456
+2025-12-21 09:15
+Berlin
+Anna Ivanova
+1
+18.0
+SU789
+2025-12-22 14:45
+Paris
+Sergey Sidorov
+3
+32.7
